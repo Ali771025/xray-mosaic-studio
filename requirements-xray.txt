@@ -1,0 +1,9 @@
+# Shared geometry/batch core (versions actually used for validation)
+numpy==2.5.4
+opencv-python-headless==5.0.0.93
+scipy==1.18.1
+tifffile==2026.9.20
+# Existing desktop GUI
+PyQt6==6.11.0
+# Existing optional SuperGlue visual workflow additionally needs its original
+# PyTorch/torchvision/matplotlib stack. Not needed by the geometry pipeline.
