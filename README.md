@@ -1,5 +1,10 @@
 # X-ray Mosaic Studio
 
+<!-- project-contact:start -->
+**Work with Yosof Omrani:** [Email a project inquiry](mailto:aliomrani916@gmail.com) · **aliomrani916@gmail.com** · [Services & contact](https://ali771025.github.io/software-portfolio/en/contact/) · [Portfolio walkthrough](https://ali771025.github.io/software-portfolio/en/work/xray-mosaic-studio/)
+<!-- project-contact:end -->
+
+
 ![X-ray Mosaic Studio architecture overview](docs/assets/overview.svg)
 
 **Geometry-aware image mosaics with a Python processing core and Qt review view.**
